@@ -15,7 +15,7 @@ Este vídeo de 1 minuto oferece uma visão rápida e envolvente do potencial e d
 - Animação Neural: Recorri a softwares de animação 3D que utilizam redes neurais para criar um avatar virtual que acompanha a narração, proporcionando uma experiência visualmente impressionante.
 - Edição de Vídeo Neural: Utilizei um software de edição de vídeo que emprega algoritmos de aprendizado de máquina para a edição e montagem do vídeo, garantindo uma qualidade profissional.
 
-🚀 Resultados
+## 🚀 Resultados
 O vídeo é uma breve jornada pelo mundo das redes neurais, destacando suas possibilidades revolucionárias em apenas 60 segundos.
 
 [LINK PARA O VÍDEO AQUI](https://github.com/steinbukken7321/lab-natty-or-not/blob/main/videorafael.md)
