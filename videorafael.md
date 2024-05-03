@@ -20,5 +20,5 @@ O vídeo é uma breve jornada pelo mundo das redes neurais, destacando suas poss
 
 [LINK PARA O VÍDEO AQUI](https://github.com/steinbukken7321/lab-natty-or-not/blob/main/videorafael.md)
 
-💭 Reflexão
+## 💭 Reflexão
 Este projeto foi uma imersão fascinante no potencial das redes neurais para contar histórias visuais. Ao empregar tecnologias de ponta, pudemos criar uma narrativa envolvente e futurística, que captura a imaginação do espectador. A integração harmoniosa dessas tecnologias demonstra como as redes neurais estão moldando não apenas o futuro da inteligência artificial, mas também a forma como contamos e experimentamos histórias. É emocionante contemplar as possibilidades que essas ferramentas oferecem, tanto para a expressão artística quanto para a comunicação de ideias complexas de maneira acessível e cativante.
