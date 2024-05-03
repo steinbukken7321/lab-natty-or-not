@@ -20,35 +20,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-Fluidez Visual: Uma Ode à Estética Contemporânea
+# Vídeo: Uma Jornada de 60 Segundos pelo Futuro das Redes Neurais 🎥
 
 ## 📒 Descrição
-"Fluidez Visual: Uma Ode à Estética Contemporânea" é um projeto que explora a beleza e a harmonia visual por meio da inteligência artificial. Nossa missão é criar um espaço onde a estética encontra a tecnologia, produzindo conteúdos que cativam e inspiram.
+Este vídeo de 1 minuto oferece uma visão rápida e envolvente do potencial e das aplicações das redes neurais no nosso dia a dia.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa: GANs (Redes Adversariais Generativas), VAEs (Variational Autoencoders)
-Ferramentas de Edição de Imagem: Photoshop, GIMP, Affinity Photo
-Bibliotecas de IA: TensorFlow, PyTorch
-Ferramentas de Visualização de Dados: Matplotlib, seaborn
+- Redes Neurais: Utilizei modelos de redes neurais para a elaboração e revisão do roteiro, garantindo uma narrativa coesa e envolvente.
+- Síntese de Voz: Utilizei técnicas avançadas de síntese de voz baseadas em redes neurais para criar uma voz virtual futurística.
+- Animação 3D: Recorri a softwares de animação 3D baseados em redes neurais para criar um avatar virtual, proporcionando uma experiência visualmente impressionante.
+- Edição de Vídeo: Utilizei software de edição de vídeo que emprega algoritmos de aprendizado de máquina para a edição e montagem do vídeo, visando uma qualidade profissional.
 
 ## 🧐 Processo de Criação
-Nosso processo de criação envolveu uma abordagem meticulosa e criativa:
-
-Definição da Estética: Iniciamos com uma pesquisa profunda para entender as tendências estéticas contemporâneas, buscando referências em arte, design e fotografia.
-Coleta de Dados: Reunimos conjuntos de dados de imagens que exemplificavam a estética contemporânea, garantindo uma ampla variedade de inspirações visuais.
-Treinamento de Modelos de IA: Utilizamos redes neurais generativas, como GANs e VAEs, para aprender e gerar novas imagens que refletissem a estética definida.
-Refinamento Manual: Após a geração das imagens, realizamos um processo de refinamento manual utilizando ferramentas de edição de imagem, ajustando detalhes para aprimorar a estética final.
-Seleção e Aprimoramento: Selecionamos as melhores imagens geradas e as refinamos ainda mais, garantindo que cada uma delas representasse a essência da estética contemporânea.
+- Roteiro Neural: Utilizei modelos de linguagem baseados em redes neurais para criar e revisar o roteiro, garantindo uma narrativa coesa e envolvente.
+- Síntese de Voz Neural: Empreguei técnicas de síntese de voz baseadas em redes neurais para criar uma voz virtual futurística que narra o vídeo.
+- Animação Neural: Recorri a softwares de animação 3D que utilizam redes neurais para criar um avatar virtual que acompanha a narração, proporcionando uma experiência visualmente impressionante.
+- Edição de Vídeo Neural: Utilizei um software de edição de vídeo que emprega algoritmos de aprendizado de máquina para a edição e montagem do vídeo, garantindo uma qualidade profissional.
 
 ## 🚀 Resultados
-Os resultados do projeto foram excepcionais:
+O vídeo é uma breve jornada pelo mundo das redes neurais, destacando suas possibilidades revolucionárias em apenas 60 segundos.
 
-Criamos uma coleção diversificada de imagens que capturam a fluidez e a harmonia visual da estética contemporânea.
-As imagens foram amplamente elogiadas pela sua originalidade e apelo visual, gerando engajamento e interesse por parte do público.
-O projeto serviu como uma plataforma para explorar novas formas de expressão visual e promover discussões sobre o papel da tecnologia na criação artística.
+[LINK PARA O VÍDEO AQUI](https://github.com/steinbukken7321/lab-natty-or-not/blob/main/videorafael.md)
 
-## 💭 Reflexão (Opcional)
-Criar algo "natty" (natural) com IA pode ser desafiador devido à tendência da IA de produzir resultados que podem parecer artificiais. No entanto, ao combinar técnicas avançadas de IA com refinamento manual, é possível alcançar resultados que se aproximam da estética natural. O desafio reside em encontrar o equilíbrio entre a intervenção humana e a capacidade da IA de criar, resultando em obras que são ao mesmo tempo autênticas e inovadoras.
+## 💭 Reflexão
+Este projeto foi uma imersão fascinante no potencial das redes neurais para contar histórias visuais. Ao empregar tecnologias de ponta, pudemos criar uma narrativa envolvente e futurística, que captura a imaginação do espectador. A integração harmoniosa dessas tecnologias demonstra como as redes neurais estão moldando não apenas o futuro da inteligência artificial, mas também a forma como contamos e experimentamos histórias. É emocionante contemplar as possibilidades que essas ferramentas oferecem, tanto para a expressão artística quanto para a comunicação de ideias complexas de maneira acessível e cativante.
+
 ```
 
 ### Exemplos e Insigths
