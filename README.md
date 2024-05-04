@@ -1,60 +1,58 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Vídeo: Uma Jornada de 60 Segundos pelo Futuro das Redes Neurais 🎥
-
-## 📒 Descrição
-Este vídeo de 1 minuto oferece uma visão rápida e envolvente do potencial e das aplicações das redes neurais no nosso dia a dia.
+# Pokémon Adventures: Uma Jornada Além da Pokebola 🌟
+### 📒 Descrição
+Pokémon Adventures é um podcast emocionante que mergulha nas aventuras de treinadores e seus Pokémon em um mundo repleto de desafios e mistérios.
 
 ## 🤖 Tecnologias Utilizadas
-- Redes Neurais: Utilizei modelos de redes neurais para a elaboração e revisão do roteiro, garantindo uma narrativa coesa e envolvente.
-- Síntese de Voz: Utilizei técnicas avançadas de síntese de voz baseadas em redes neurais para criar uma voz virtual futurística.
-- Animação 3D: Recorri a softwares de animação 3D baseados em redes neurais para criar um avatar virtual, proporcionando uma experiência visualmente impressionante.
-- Edição de Vídeo: Utilizei software de edição de vídeo que emprega algoritmos de aprendizado de máquina para a edição e montagem do vídeo, visando uma qualidade profissional.
-
+ChatGPT: Responsável pela criação da narrativa envolvente e diálogos vívidos entre treinadores e Pokémon.
+PokeArt: Utilizado pelo talentoso usuário PokéMaster para criar ilustrações vibrantes que dão vida ao universo Pokémon.
 ## 🧐 Processo de Criação
-- Roteiro Neural: Utilizei modelos de linguagem baseados em redes neurais para criar e revisar o roteiro, garantindo uma narrativa coesa e envolvente.
-- Síntese de Voz Neural: Empreguei técnicas de síntese de voz baseadas em redes neurais para criar uma voz virtual futurística que narra o vídeo.
-- Animação Neural: Recorri a softwares de animação 3D que utilizam redes neurais para criar um avatar virtual que acompanha a narração, proporcionando uma experiência visualmente impressionante.
-- Edição de Vídeo Neural: Utilizei um software de edição de vídeo que emprega algoritmos de aprendizado de máquina para a edição e montagem do vídeo, garantindo uma qualidade profissional.
+A criação do Pokémon Adventures foi uma colaboração entre a inteligência artificial do ChatGPT e a habilidade artística de PokéMaster. Juntos, eles deram vida a uma jornada épica através do mundo Pokémon.
 
 ## 🚀 Resultados
-O vídeo é uma breve jornada pelo mundo das redes neurais, destacando suas possibilidades revolucionárias em apenas 60 segundos.
 
-[LINK PARA O VÍDEO AQUI](https://github.com/steinbukken7321/lab-natty-or-not/blob/main/videorafael.md)
+![image](https://github.com/steinbukken7321/lab-natty-or-not/assets/83385968/5d5b7a0e-63e6-4b62-9443-7e3576c22f17)
 
-## 💭 Reflexão
-Este projeto foi uma imersão fascinante no potencial das redes neurais para contar histórias visuais. Ao empregar tecnologias de ponta, pudemos criar uma narrativa envolvente e futurística, que captura a imaginação do espectador. A integração harmoniosa dessas tecnologias demonstra como as redes neurais estão moldando não apenas o futuro da inteligência artificial, mas também a forma como contamos e experimentamos histórias. É emocionante contemplar as possibilidades que essas ferramentas oferecem, tanto para a expressão artística quanto para a comunicação de ideias complexas de maneira acessível e cativante.
 
-```
+Título: Em Busca da Lenda Pokémon
+Apresentadores:
+Narrador: Uma voz que guia os ouvintes através das aventuras emocionantes.
+Treinador: Uma voz cheia de determinação e paixão pelos Pokémon.
+Introdução:
+Bem-vindo ao mundo dos Pokémon, um lugar cheio de maravilhas e desafios. Em nossa jornada, seguimos um jovem treinador em sua busca para se tornar um Mestre Pokémon.
 
-### Exemplos e Insigths
+### Cena 1:
+Nosso treinador está pronto para sua primeira batalha de ginásio. Seu coração está cheio de determinação enquanto ele se prepara para enfrentar o líder do ginásio e provar seu valor como treinador.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+### Cena 2:
+Após superar o desafio do ginásio, nosso treinador parte em uma jornada para capturar Pokémon raros e poderosos. Ele enfrenta florestas densas, montanhas íngremes e cavernas escuras em sua busca.
 
-## Links Interessantes
+### Cena 3:
+Durante sua jornada, nosso treinador encontra um Pokémon lendário. Sua beleza e poder são impressionantes, mas também representam um desafio formidável. Determinado, nosso treinador aceita o desafio e inicia uma batalha épica.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+### Cena 4:
+Com coragem e trabalho em equipe, nosso treinador e seus Pokémon emergem vitoriosos. Eles alcançaram o impossível e capturaram o Pokémon lendário, tornando-se verdadeiros heróis em seu mundo.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+### Outro:
+Enquanto a jornada do nosso treinador continua, uma coisa é certa: sua determinação e amor pelos Pokémon o levarão a lugares além de sua imaginação.
+
+### Efeitos sonoros:
+Chirps e sons característicos dos Pokémon.
+Ruídos de batalha emocionantes.
+Música inspiradora e cativante do mundo Pokémon.
+Estética:
+A arte do podcast é vibrante e colorida, retratando o mundo Pokémon com detalhes vívidos e cativantes.
+
+### Nível de qualidade:
+O podcast apresenta áudio claro e ilustrações de alta qualidade que transportam os ouvintes para o mundo dos Pokémon.
+
+### Duração:
+Cerca de 30 minutos de pura emoção e aventura Pokémon.
+
+### Audiência:
+Destinado a treinadores Pokémon de todas as idades, bem como fãs de aventuras emocionantes e universos fantásticos.
+
+### Objetivo:
+O objetivo do podcast é proporcionar uma experiência imersiva e emocionante no mundo dos Pokémon, inspirando os ouvintes a embarcarem em suas próprias jornadas Pokémon.
+
+### 💭 Reflexão (Opcional)
+A colaboração entre inteligência artificial e talento humano abre portas para a criação de conteúdo único e envolvente, como demonstrado no Pokémon Adventures. Com ferramentas como o ChatGPT e a criatividade dos artistas, podemos explorar novas facetas do universo Pokémon e proporcionar experiências emocionantes para os fãs de todas as idades.
